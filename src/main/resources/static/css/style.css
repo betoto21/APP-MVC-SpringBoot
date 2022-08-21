@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+}
+
+.main-container{
+    width: 30%;
+    margin: 0 auto;
+}
+
+.single{
+    display: block;
+}
+
+.link{
+    text-decoration: none;
+    background-color: #6f6f6f;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.link:hover{
+    background-color: #c6c6c6;
+    color: black;
+}
+
+.container-left{
+    float: left;
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-left: 50px;
+    
+}
+
+div{
+    display: inline-block;
+}
+
+.form{
+   margin-left: 18%;
+   padding: 30px;
+}
+
+label{
+    padding: 10px;
+}
